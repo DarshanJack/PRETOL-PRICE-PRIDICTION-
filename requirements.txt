@@ -1,0 +1,7 @@
+pandas
+matplotlib.pyplot
+statsmodels.tsa.arima.model
+pandas
+prophet
+prophet.plot
+numpy
